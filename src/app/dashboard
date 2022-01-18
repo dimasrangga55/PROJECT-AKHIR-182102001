@@ -1,0 +1,12 @@
+<selection class="content-header">
+  <h1>Dashboard
+  <small>Control Panel</small>
+  </h1>
+  <ol class="breadcrumb">
+  <li><a href="#"><i class="fa fa-Dashboard"><i></li>
+  <li class="active">Dashboard</li>
+  <\ol>
+  </selection>
+
+  </-- Main content -->
+  <selection class="content">
